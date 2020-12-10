@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "koooo",
+      "description": "ok",
+      "id": 1
+    },
+    {
+      "title": "other ",
+      "description": "heres new",
+      "id": 3
+    },
+    {
+      "title": "this is stream refractor",
+      "description": "second time",
+      "id": 7
+    },
+    {
+      "title": "created by me",
+      "description": "gstrea",
+      "userId": "106057759927279126329",
+      "id": 8
+    }
+  ]
+}
