@@ -4,7 +4,7 @@ This project can be used as a reference for generic react app with CRUD operatio
 
 ## Available Scripts
 
-In the project directory, you can run:
+After installing node modules in the project directory, you can run following commands:
 
 ### `cd api && npm start`
 
