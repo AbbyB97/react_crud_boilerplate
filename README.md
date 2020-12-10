@@ -10,9 +10,6 @@ After installing node modules in the project directory, you can run following co
 
 Runs the backend api that is installed made with json-server
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
 ### `cd client && npm start`
 
 Runs the react app which will send REST requests to json-server and 
